@@ -1,0 +1,76 @@
+{
+    "CL_-=_-=": "DUP_Extraction",
+    "zip_filetime": "current",
+    "archive_action": "donothing",
+    "archive_engine": "ziparchivechunking",
+    "extractonStart": 1719715347.151897,
+    "chunkStart": 1719715521.514692,
+    "root_path": "K:\/xampp\/htdocs\/myymalucca\/",
+    "archive_path": "K:\/xampp\/htdocs\/myymalucca\/20221228_myymalucca_854301f74dd38bd95707_20221229010527_archive.zip",
+    "ajax1_error_level": 32767,
+    "dawn_status": null,
+    "archive_offset": 17544,
+    "do_chunking": false,
+    "chunkedExtractionCompleted": false,
+    "num_files": 18164,
+    "sub_folder_archive": "",
+    "max_size_extract_at_a_time": 2097152,
+    "zip_arc_chunk_notice_no": -1,
+    "zip_arc_chunk_notice_change_last_time": 0,
+    "zip_arc_chunks_extract_rates": [
+        0,
+        1555455.2729555378,
+        5664791.662304415,
+        3073969.4088467793,
+        1601714.5476675,
+        3221865.7138966643,
+        1308848.6122215877,
+        474201.55310998374,
+        264888.01009409025,
+        79226.57165960551,
+        723196.4386125834,
+        242671.8283075432,
+        105688.31159633718,
+        418159.56447849,
+        325873.28413743543,
+        412448.54842483526,
+        639328.1301486043,
+        229851.9011115633,
+        468141.33917254535,
+        2031777.947429698,
+        1791370.736074199,
+        2698605.068439985,
+        880933.1240793958,
+        1284643.9096822375,
+        1526714.3839959663,
+        1154685.1564142408,
+        1440405.3084431582,
+        1842911.446328846,
+        2838416.601532413,
+        3781330.681358116
+    ],
+    "archive_items_count": 17559,
+    "filters": {
+        "CL_-=_-=": "Duplicator\\Installer\\Core\\Deploy\\Files\\Filters",
+        "files": [
+            "20221228_myymalucca_854301f74dd38bd95707_20221229010527_installer-backup.php"
+        ],
+        "dirsWithoutChilds": [],
+        "dirs": [
+            "dup-installer"
+        ]
+    },
+    "removeFilters": {
+        "CL_-=_-=": "Duplicator\\Installer\\Core\\Deploy\\Files\\Filters",
+        "files": [
+            "K:\/xampp\/htdocs\/myymalucca\/20221228_myymalucca_854301f74dd38bd95707_20221229010527_installer-backup.php",
+            "K:\/xampp\/htdocs\/myymalucca\/20221228_myymalucca_854301f74dd38bd95707_20221229010527_archive.zip",
+            "K:\/xampp\/htdocs\/myymalucca\/installer.php",
+            "K:\/xampp\/htdocs\/myymalucca\/dup-installer-bootlog__bed40cd-29010527.txt"
+        ],
+        "dirsWithoutChilds": [],
+        "dirs": [
+            "K:\/xampp\/htdocs\/myymalucca\/dup-installer"
+        ]
+    }
+}

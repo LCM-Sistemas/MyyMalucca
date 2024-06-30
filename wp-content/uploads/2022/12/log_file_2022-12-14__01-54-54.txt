@@ -1,0 +1,78 @@
+
+---Downloaded files---
+The import files for: Electro - WP Bakery Page Builder were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://myymalucca.com.br
+Data file = /home/u213872156/domains/myymalucca.com.br/public_html/wp-content/themes/electro/assets/dummy-data/visualcomposer-2/dummy-data.xml
+Widget file = /home/u213872156/domains/myymalucca.com.br/public_html/wp-content/themes/electro/assets/dummy-data/visualcomposer-2/widgets.wie
+Customizer file = not defined!
+Redux files:
+electro_options -> /home/u213872156/domains/myymalucca.com.br/public_html/wp-content/themes/electro/assets/dummy-data/visualcomposer-2/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Home Sidebar : 
+
+Imagem - No Title - Imported
+Lista de produtos - Latest Products - Imported
+Electro Features Block - No Title - Imported
+Electro Products Carousel - Featured Products - Imported
+Electro Posts Carousel - From the Blog - Imported
+
+Shop Sidebar : 
+
+Electro Product Categories - No Title - Imported
+Electro Product Filter - Filters - Imported
+Imagem - No Title - Imported
+Lista de produtos - Latest Products - Imported
+
+Product Filters : 
+
+Filtros ativos de produto - Active Filters - Imported
+Filtrar produtos por atributo - Brands - Imported
+Filtrar produtos por atributo - Color - Imported
+Filtrar produtos por preço - Price - Imported
+
+Blog Sidebar : 
+
+Pesquisar - No Title - Imported
+Texto - About Blog - Imported
+Categorias - Categories - Imported
+Electro Recent Posts - Recent Posts - Imported
+Nuvem de tags - Tags Clouds - Imported
+
+Footer Widgets : 
+
+Lista de produtos - Featured Products - Imported
+Lista de produtos - Top Selling Products - Imported
+Lista de produtos - On-sale Products - Imported
+Imagem - No Title - Imported
+
+Footer Bottom Widgets : 
+
+Menu - Find It Fast - Imported
+Menu -   - Imported
+Menu - Customer Care - Imported
+
+Mobile Footer Bottom Widgets : 
+
+Menu - We Recommend - Imported
+Menu - My Account - Imported
+Menu - Customer Care - Imported
+Menu - About Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: electro_options finished successfully!
+
+---ocdi/after_import---
+

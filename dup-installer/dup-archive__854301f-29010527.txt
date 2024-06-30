@@ -1,0 +1,1018 @@
+{
+    "dup_type": "lite",
+    "created": "2022-12-29 01:05:27",
+    "version_dup": "1.5.1",
+    "version_wp": "6.1.1",
+    "version_db": "10.5.17",
+    "version_php": "7.4.33",
+    "version_os": "Linux",
+    "blogname": "Myy Malucca",
+    "exportOnlyDB": 0,
+    "secure_on": false,
+    "secure_pass": "$2a$08$qKjjIVUfSZ.SByt6GZsJ4e2XPaHZVXBuLO5WSh8z84a7lBeZQekSa",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "dbpass": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "myymalucca.com.br",
+            "path": "\/",
+            "blogname": "Myy Malucca",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "encktemp@outlook.com",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/myymalucca.com.br",
+            "fullSiteUrl": "https:\/\/myymalucca.com.br",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/uploads",
+            "fullUploadUrl": "http:\/\/myymalucca.com.br\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "dbInfo": {
+        "buildMode": "MYSQLDUMP",
+        "charSetList": [
+            "utf8mb4",
+            "utf8"
+        ],
+        "collationList": [
+            "utf8_general_ci",
+            "utf8mb4_unicode_520_ci",
+            "utf8mb4_unicode_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 1,
+        "name": "u213872156_p4Ksu",
+        "tablesBaseCount": 66,
+        "tablesFinalCount": 66,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 12009,
+        "tablesSizeOnDisk": 8945664,
+        "tablesList": {
+            "wp_actionscheduler_actions": {
+                "inaccurateRows": 229,
+                "insertedRows": 229,
+                "size": 245760
+            },
+            "wp_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_actionscheduler_groups": {
+                "inaccurateRows": 5,
+                "insertedRows": 6,
+                "size": 32768
+            },
+            "wp_actionscheduler_logs": {
+                "inaccurateRows": 302,
+                "insertedRows": 675,
+                "size": 81920
+            },
+            "wp_aioseo_cache": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 131072
+            },
+            "wp_aioseo_notifications": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_aioseo_posts": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 49152
+            },
+            "wp_commentmeta": {
+                "inaccurateRows": 209,
+                "insertedRows": 215,
+                "size": 49152
+            },
+            "wp_comments": {
+                "inaccurateRows": 112,
+                "insertedRows": 115,
+                "size": 163840
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_options": {
+                "inaccurateRows": 1295,
+                "insertedRows": 1050,
+                "size": 2736128
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 6457,
+                "insertedRows": 6755,
+                "size": 1982464
+            },
+            "wp_posts": {
+                "inaccurateRows": 532,
+                "insertedRows": 529,
+                "size": 622592
+            },
+            "wp_revslider_css": {
+                "inaccurateRows": 109,
+                "insertedRows": 109,
+                "size": 147456
+            },
+            "wp_revslider_css_bkp": {
+                "inaccurateRows": 47,
+                "insertedRows": 47,
+                "size": 32768
+            },
+            "wp_revslider_layer_animations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_revslider_layer_animations_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_revslider_navigations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_revslider_navigations_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_revslider_sliders": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_revslider_sliders_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_revslider_slides": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_revslider_slides_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_revslider_static_slides": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_revslider_static_slides_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 920,
+                "insertedRows": 929,
+                "size": 180224
+            },
+            "wp_terms": {
+                "inaccurateRows": 293,
+                "insertedRows": 303,
+                "size": 81920
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 584,
+                "insertedRows": 663,
+                "size": 65536
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 293,
+                "insertedRows": 303,
+                "size": 81920
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 69,
+                "insertedRows": 69,
+                "size": 262144
+            },
+            "wp_users": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 65536
+            },
+            "wp_wc_admin_notes": {
+                "inaccurateRows": 39,
+                "insertedRows": 50,
+                "size": 49152
+            },
+            "wp_wc_admin_note_actions": {
+                "inaccurateRows": 61,
+                "insertedRows": 61,
+                "size": 32768
+            },
+            "wp_wc_category_lookup": {
+                "inaccurateRows": 242,
+                "insertedRows": 245,
+                "size": 16384
+            },
+            "wp_wc_customer_lookup": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "wp_wc_download_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_coupon_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_product_lookup": {
+                "inaccurateRows": 3,
+                "insertedRows": 4,
+                "size": 81920
+            },
+            "wp_wc_order_stats": {
+                "inaccurateRows": 3,
+                "insertedRows": 4,
+                "size": 65536
+            },
+            "wp_wc_order_tax_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_product_attributes_lookup": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 32768
+            },
+            "wp_wc_product_download_directories": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_wc_product_meta_lookup": {
+                "inaccurateRows": 89,
+                "insertedRows": 100,
+                "size": 114688
+            },
+            "wp_wc_rate_limits": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wc_reserved_stock": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_wc_tax_rate_classes": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_wc_webhooks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_api_keys": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_attribute_taxonomies": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_woocommerce_downloadable_product_permissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_woocommerce_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_order_itemmeta": {
+                "inaccurateRows": 60,
+                "insertedRows": 60,
+                "size": 49152
+            },
+            "wp_woocommerce_order_items": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 32768
+            },
+            "wp_woocommerce_payment_tokenmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_payment_tokens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_sessions": {
+                "inaccurateRows": 9,
+                "insertedRows": 9,
+                "size": 65536
+            },
+            "wp_woocommerce_shipping_zones": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wp_woocommerce_shipping_zone_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "wp_woocommerce_shipping_zone_methods": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wp_woocommerce_tax_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_woocommerce_tax_rate_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wpforms_tasks_meta": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 16384
+            },
+            "wp_yith_wcwl": {
+                "inaccurateRows": 3,
+                "insertedRows": 5,
+                "size": 32768
+            },
+            "wp_yith_wcwl_lists": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 49152
+            },
+            "wp_yydev_tagmanager": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 16384
+            }
+        },
+        "varLowerCaseTables": "0",
+        "dbEngine": "MariaDB",
+        "version": "10.5.17",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 3,
+        "packageName": "20221228_myymalucca",
+        "packageHash": "854301f-29010527",
+        "secondaryHash": "45c4541-29010527"
+    },
+    "fileInfo": {
+        "dirCount": 2431,
+        "fileCount": 15128,
+        "size": 74414182
+    },
+    "wpInfo": {
+        "version": "6.1.1",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html",
+        "targetPaths": [
+            "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "encktemp@outlook.com",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": ".d*7&`rY],Z~GCyaGvEWm~>wwZzky6]~H lw@reXWz\/s\/g.Gze P4[=|E!+DsE\/|",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "Pmg%VR;)`BA5YKiN8uD,v-%%hS^QAn}g(N<!EB1\/*35I>!,}DsM~1{nPJ_O66|kR",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "|Vfsnp@Dy=j`Z`6eVs$v:yvUDPvZ>XyCfA|[Jvi70l,Qo`[2}x!.a}@h=>t1K)f0",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "TgeG8=Q+]<db%MZ_m<$D~uh|Z,H,|t&K?~bY%J*uqtef#5>]uUbx]<rl%V.,y,Y*",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "F0#^U4]c+_5mh$U#D vUqe13qz>4z6B1]K(&w64IpD[TpNCa.k-k{o<?&>H+amPI",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "-Y3FxC5it<o__lfd)@YUs(kSsqYxk9#x,BAa.2E&WaAZV&1FnRdheR4eE3(_M{PQ",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "4:1ERDe[W5tvZ1j,r&S~]*&1f|DsV|Jq@>4,JYOfC[j%vHxDeE$8R&JtxLJ\/Y`;*",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "kcAw=yEePFJd`U,CZzfY#j&+\/oWrukEg(Th Wp<6:EH3|M}eTpdnbtewT=X`7#xf",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "http:\/\/myymalucca.com.br\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "http:\/\/myymalucca.com.br\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "2048M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": true,
+                    "inWpConfig": true
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_DIR": {
+                    "value": 493,
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_FILE": {
+                    "value": 420,
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/themes\/electro",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/themes\/electro-child",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_AUTO_UPDATE_CORE": {
+                    "value": "minor",
+                    "inWpConfig": true
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "http:\/\/myymalucca.com.br\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/myymalucca.com.br",
+                "homeUrl": "https:\/\/myymalucca.com.br",
+                "loginUrl": "https:\/\/myymalucca.com.br\/wp-login.php",
+                "contentUrl": "https:\/\/myymalucca.com.br\/wp-content",
+                "uploadBaseUrl": "http:\/\/myymalucca.com.br\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/myymalucca.com.br\/wp-content\/plugins",
+                "mupluginsUrl": "http:\/\/myymalucca.com.br\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/myymalucca.com.br\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html",
+                    "abs": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html",
+                    "wpconfig": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html",
+                    "wpcontent": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content",
+                    "uploads": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html",
+                    "abs": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html",
+                    "wpconfig": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html",
+                    "wpcontent": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content",
+                    "uploads": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/u213872156\/domains\/myymalucca.com.br\/public_html\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "woocommerce-extra-checkout-fields-for-brazil\/woocommerce-extra-checkout-fields-for-brazil.php": {
+                "slug": "woocommerce-extra-checkout-fields-for-brazil\/woocommerce-extra-checkout-fields-for-brazil.php",
+                "name": "Brazilian Market on WooCommerce",
+                "version": "3.7.2",
+                "pluginURI": "https:\/\/github.com\/claudiosanches\/woocommerce-extra-checkout-fields-for-brazil",
+                "author": "Claudio Sanches",
+                "authorURI": "https:\/\/claudiosanches.com",
+                "description": "Adds new checkout fields, field masks and other things necessary to properly work with WooCommerce on Brazil.",
+                "title": "Brazilian Market on WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce-pagseguro\/woocommerce-pagseguro.php": {
+                "slug": "woocommerce-pagseguro\/woocommerce-pagseguro.php",
+                "name": "Claudio Sanches - PagSeguro for WooCommerce",
+                "version": "2.14.0",
+                "pluginURI": "https:\/\/github.com\/claudiosanches\/woocommerce-pagseguro",
+                "author": "Claudio Sanches",
+                "authorURI": "https:\/\/claudiosanches.com",
+                "description": "Includes PagSeguro as a payment gateway to WooCommerce.",
+                "title": "Claudio Sanches - PagSeguro for WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.1",
+                "pluginURI": "https:\/\/snapcreek.com\/duplicator\/duplicator-free\/",
+                "author": "Snap Creek",
+                "authorURI": "http:\/\/www.snapcreek.com\/duplicator\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "electro-extensions\/electro-extensions.php": {
+                "slug": "electro-extensions\/electro-extensions.php",
+                "name": "Electro Extensions",
+                "version": "3.3.2",
+                "pluginURI": "https:\/\/demo2.chethemes.com\/electro\/",
+                "author": "MadrasThemes",
+                "authorURI": "",
+                "description": "This selection of extensions compliment our lean and mean theme for WooCommerce, Electro. Please note: they don\u2019t work with any WordPress theme, just Electro.",
+                "title": "Electro Extensions",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "envato-market\/envato-market.php": {
+                "slug": "envato-market\/envato-market.php",
+                "name": "Envato Market",
+                "version": "2.0.7",
+                "pluginURI": "https:\/\/envato.com\/market-plugin\/",
+                "author": "Envato",
+                "authorURI": "https:\/\/envato.com",
+                "description": "WordPress Theme & Plugin management for the Envato Market.",
+                "title": "Envato Market",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "Hostinger\/hostinger.php": {
+                "slug": "Hostinger\/hostinger.php",
+                "name": "Hostinger",
+                "version": "1.0.1",
+                "pluginURI": "https:\/\/www.hostinger.com",
+                "author": "Hostinger",
+                "authorURI": "https:\/\/www.hostinger.com",
+                "description": "Hostinger WordPress plugin.",
+                "title": "Hostinger",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "mas-woocommerce-brands\/mas-woocommerce-brands.php": {
+                "slug": "mas-woocommerce-brands\/mas-woocommerce-brands.php",
+                "name": "MAS Brands for WooCommerce",
+                "version": "1.0.6",
+                "pluginURI": "https:\/\/github.com\/madrasthemes\/mas-woocommerce-brands",
+                "author": "MadrasThemes",
+                "authorURI": "https:\/\/madrasthemes.com\/",
+                "description": "Add brands to your products, as well as widgets and shortcodes for displaying your brands.",
+                "title": "MAS Brands for WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "mas-static-content\/mas-static-content.php": {
+                "slug": "mas-static-content\/mas-static-content.php",
+                "name": "MAS Static Content",
+                "version": "1.0.4",
+                "pluginURI": "https:\/\/github.com\/madrasthemes\/mas-static-content",
+                "author": "MadrasThemes",
+                "authorURI": "https:\/\/madrasthemes.com\/",
+                "description": "This plugin helps to create a custom post type static content and use it with shortcode.",
+                "title": "MAS Static Content",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "melhor-envio-cotacao\/melhor-envio-beta.php": {
+                "slug": "melhor-envio-cotacao\/melhor-envio-beta.php",
+                "name": "Melhor Envio",
+                "version": "2.11.31",
+                "pluginURI": "https:\/\/melhorenvio.com.br",
+                "author": "Melhor Envio",
+                "authorURI": "melhorenvio.com.br",
+                "description": "Plugin para cota\u00e7\u00e3o e compra de fretes utilizando a API da Melhor Envio.",
+                "title": "Melhor Envio",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "one-click-demo-import\/one-click-demo-import.php": {
+                "slug": "one-click-demo-import\/one-click-demo-import.php",
+                "name": "One Click Demo Import",
+                "version": "3.1.2",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/one-click-demo-import\/",
+                "author": "OCDI",
+                "authorURI": "https:\/\/ocdi.com",
+                "description": "Import your content, widgets and theme settings with one click. Theme authors! Enable simple demo import for your theme demo data.",
+                "title": "One Click Demo Import",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "revslider\/revslider.php": {
+                "slug": "revslider\/revslider.php",
+                "name": "Slider Revolution",
+                "version": "6.6.7",
+                "pluginURI": "https:\/\/www.sliderrevolution.com\/",
+                "author": "ThemePunch",
+                "authorURI": "https:\/\/themepunch.com\/",
+                "description": "Slider Revolution - More than just a WordPress Slider",
+                "title": "Slider Revolution",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "redux-framework\/redux-framework.php": {
+                "slug": "redux-framework\/redux-framework.php",
+                "name": "Template Library and Redux Framework",
+                "version": "4.3.21",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/redux-framework",
+                "author": "Extendify",
+                "authorURI": "https:\/\/extendify.com\/?utm_source=redux&utm_medium=plugins-page&utm_campaign=by",
+                "description": "Build better sites in WordPress fast!",
+                "title": "Template Library and Redux Framework",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce\/woocommerce.php": {
+                "slug": "woocommerce\/woocommerce.php",
+                "name": "WooCommerce",
+                "version": "7.2.2",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "An eCommerce toolkit that helps you sell anything. Beautifully.",
+                "title": "WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "js_composer\/js_composer.php": {
+                "slug": "js_composer\/js_composer.php",
+                "name": "WPBakery Page Builder",
+                "version": "6.10.0",
+                "pluginURI": "http:\/\/wpbakery.com",
+                "author": "Michael M - WPBakery.com",
+                "authorURI": "http:\/\/wpbakery.com",
+                "description": "Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine \u2013 no programming knowledge required.",
+                "title": "WPBakery Page Builder",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wpforms-lite\/wpforms.php": {
+                "slug": "wpforms-lite\/wpforms.php",
+                "name": "WPForms Lite",
+                "version": "1.7.8",
+                "pluginURI": "https:\/\/wpforms.com",
+                "author": "WPForms",
+                "authorURI": "https:\/\/wpforms.com",
+                "description": "Beginner friendly WordPress contact form plugin. Use our Drag & Drop form builder to create your WordPress forms.",
+                "title": "WPForms Lite",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "yith-woocommerce-compare\/init.php": {
+                "slug": "yith-woocommerce-compare\/init.php",
+                "name": "YITH WooCommerce Compare",
+                "version": "2.21.0",
+                "pluginURI": "https:\/\/yithemes.com\/themes\/plugins\/yith-woocommerce-compare\/",
+                "author": "YITH",
+                "authorURI": "https:\/\/yithemes.com\/",
+                "description": "The <code><strong>YITH WooCommerce Compare<\/strong><\/code> plugin allow you to compare in a simple and efficient way products on sale in your shop and analyze their main features in a single table. <a href=\"https:\/\/yithemes.com\/\" target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH<\/strong><\/a>.",
+                "title": "YITH WooCommerce Compare",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "yith-woocommerce-wishlist\/init.php": {
+                "slug": "yith-woocommerce-wishlist\/init.php",
+                "name": "YITH WooCommerce Wishlist",
+                "version": "3.16.0",
+                "pluginURI": "https:\/\/yithemes.com\/themes\/plugins\/yith-woocommerce-wishlist\/",
+                "author": "YITH",
+                "authorURI": "https:\/\/yithemes.com\/",
+                "description": "<code><strong>YITH WooCommerce Wishlist<\/strong><\/code> gives your users the possibility to create, fill, manage and share their wishlists allowing you to analyze their interests and needs to improve your marketing strategies. <a href=\"https:\/\/yithemes.com\/\" target=\"_blank\">Get more plugins for your e-commerce on <strong>YITH<\/strong><\/a>",
+                "title": "YITH WooCommerce Wishlist",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "tag-manager-header-body-footer\/index.php": {
+                "slug": "tag-manager-header-body-footer\/index.php",
+                "name": "YYDevelopment - Tag Manager - Header, Body And Footer",
+                "version": "3.0.0",
+                "pluginURI": "https:\/\/www.yydevelopment.com\/yydevelopment-wordpress-plugins\/",
+                "author": "YYDevelopment",
+                "authorURI": "https:\/\/www.yydevelopment.com\/",
+                "description": "Simple plugin that allow you add head, body and footer codes for google tag manager, analytics & facebook pixel codes.",
+                "title": "YYDevelopment - Tag Manager - Header, Body And Footer",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "electro-child": {
+                "slug": "electro-child",
+                "themeName": "Electro Child",
+                "version": "3.0.7",
+                "themeURI": "https:\/\/themeforest.net\/item\/electro-electronics-store-woocommerce-theme\/15720624",
+                "parentTheme": "electro",
+                "template": "electro",
+                "stylesheet": "electro-child",
+                "description": "This is the child theme of Electro",
+                "author": "MadrasThemes",
+                "authorURI": "https:\/\/madrasthemes.com\/",
+                "tags": [
+                    "light",
+                    "dark",
+                    "two-columns",
+                    "right-sidebar",
+                    "responsive-layout"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "electro": {
+                "slug": "electro",
+                "themeName": "Electro",
+                "version": "3.0.7",
+                "themeURI": "https:\/\/themeforest.net\/item\/electro-electronics-store-woocommerce-theme\/15720624",
+                "parentTheme": false,
+                "template": "electro",
+                "stylesheet": "electro",
+                "description": "Electro is a robust and flexible WordPress theme, designed by Transvelo to help you make the most out of using WooCommerce to power your online store. The design is well suited for Electronics Store, Vendor based marketplaces, affiliate websites. It is built and comes bundled with most of the advanced features available in most popular eCommerce websites like amazon, flipkart, snapdeal, walmart, alibaba, aliexpress, etc.",
+                "author": "MadrasThemes",
+                "authorURI": "https:\/\/madrasthemes.com\/",
+                "tags": [
+                    "black",
+                    "blue",
+                    "pink",
+                    "yellow",
+                    "dark",
+                    "light",
+                    "two-columns",
+                    "left-sidebar",
+                    "fixed-layout",
+                    "responsive-layout",
+                    "custom-colors",
+                    "custom-menu",
+                    "editor-style",
+                    "featured-images",
+                    "microformats",
+                    "post-formats",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            }
+        }
+    },
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "Myy Malucca"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20221228_myymalucca_854301f74dd38bd95707_20221229010527_installer-backup.php",
+    "package_name": "20221228_myymalucca_854301f74dd38bd95707_20221229010527_archive.zip",
+    "package_hash": "854301f-29010527",
+    "package_notes": ""
+}
